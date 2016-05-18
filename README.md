@@ -1,4 +1,3 @@
 # repo
 ----------
-Added a line and description from srmaind branch
-added from dev branch
+finalized line and description added from dev branch
